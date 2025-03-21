@@ -1,5 +1,5 @@
 git config --global user.name "Amanda da Silva Simão"
-git congig --global user.email "amanda.simao@aluno.ifce.edu.br"
+git config --global user.email "amanda.simao@aluno.ifce.edu.br"
 
 cp ~/.ssh/20231321000039 ~/ssh/id_ed25519
 cp ~/.ssh/20231321000039.pub ~pub/.ssh/id_ed25519.pub
